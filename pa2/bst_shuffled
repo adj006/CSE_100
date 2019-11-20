@@ -1,0 +1,6 @@
+ # Benchmarking average number of comparisons for successful find
+ # Data structure: bst
+ # Data: shuffled
+ # N is powers of 2, minus 1, from 1 to 32768
+ # Averaging over 5 runs for each N
+ #       N           Navgcomps               stdev
